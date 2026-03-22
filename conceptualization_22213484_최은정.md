@@ -95,7 +95,7 @@ sspokopoko22@gmail.com
 
 <br />
 
-![diagram](/project/workspace/source/diagram.jpg)
+![diagram](./source/diagram.jpg)
 
 <br />
 <br />
